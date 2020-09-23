@@ -1,0 +1,14 @@
+Add:
+
+1. -Show previous capture (from ram)
+2. Save system for directory (file)
+3. Finish toolbar
+4. Fix text discription in about form
+5. -Change 'zoom' to 'Normal' view
+6. Fix Norm view so user can move it around
+7. Make zoom view (user can zoom in and out and move around in window)
+8. Add help system
+9. Make full preview with normal and zoom where user can do move around and    zoom in and out like main preview window.
+10. Fix and finish Preferences form 
+11. Put label on bottom of form that displays text for which button has focus. Shows user what it does.
+12. 
